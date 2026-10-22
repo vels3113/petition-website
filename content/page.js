@@ -24,5 +24,5 @@ Object.assign(window.SITE_CONTENT, {
   emailContactLabel: 'Связаться с организаторами:',
   organizersEmail: 'msusolidarity@gmail.com',
   aboutNote: 'По вопросам кампании и материалов для распространения напишите организаторам. Сбор подписей пока не запущен.',
-  heroImage: './assets/images/IMG_3875.jpeg'
+  heroImage: './assets/images/IMG_3875.jpg'
 });
